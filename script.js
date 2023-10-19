@@ -157,22 +157,22 @@ console.log(BMIMark, BMIJohn, markHigherBMI);*/
 // console.log(n);
 
 // "==" v.s "==="
-const age = "18";
-if (age === 18) console.log("You just became an adult(strict)");
+// const age = "18";
+// if (age === 18) console.log("You just became an adult(strict)");
 
-if (age == 18) console.log("You just became an adult(loose)");
+// if (age == 18) console.log("You just became an adult(loose)");
 
-//Logical Operators
+// //Logical Operators
 
-const hasDriversLicense = false;
-const hasGoodVision = true;
+// const hasDriversLicense = false;
+// const hasGoodVision = true;
 
-console.log(hasDriversLicense && hasGoodVision);
-console.log(hasDriversLicense || hasGoodVision);
-console.log(!hasDriversLicense);
+// console.log(hasDriversLicense && hasGoodVision);
+// console.log(hasDriversLicense || hasGoodVision);
+// console.log(!hasDriversLicense);
 
-if (hasDriversLicense && hasGoodVision) {
-  console.log("Sarah is able to drive!");
-} else {
-  console.log("Someone else should drive ...");
-}
+// if (hasDriversLicense && hasGoodVision) {
+//   console.log("Sarah is able to drive!");
+// } else {
+//   console.log("Someone else should drive ...");
+// }
