@@ -176,4 +176,4 @@ console.log(BMIMark, BMIJohn, markHigherBMI);*/
 // } else {
 //   console.log("Someone else should drive ...");
 // }
-//Switch statement
+//Switch statement III
